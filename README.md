@@ -1,5 +1,6 @@
 # MQTT Chat Application
 A real time chat application to provide users a platform to connect and communicate with others. 
+De
 
 ## Features
 
@@ -9,6 +10,8 @@ A real time chat application to provide users a platform to connect and communic
 - Interactive user Interface
 - Proper error handling
 - User management
+- Search feature to search for a specific user
+- Access of all registered user's list with pagination and sorting feature.
 
 ## Setup Instructions
 
