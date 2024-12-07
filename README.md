@@ -1,6 +1,7 @@
 # MQTT Chat Application
 A real time chat application to provide users a platform to connect and communicate with others. 
-De
+Developed using HTML, CSS for frontend and Javascript for client side scripting and Node.js, Express for backend and MQTT for messaging protocol.
+
 
 ## Features
 
