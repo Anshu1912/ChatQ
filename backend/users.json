@@ -1,0 +1,32 @@
+{
+  "test1": {
+    "password": "$2a$10$RUvAUl.4pqj4wvKV40FmAeLcW/mnw3hVlT4a158bRzwqEIwI0oH1K"
+  },
+  "test2": {
+    "password": "$2a$10$GISuGKJJ/IEB6xPO4.dVU.pGwoqmtlQiai7kDJ7ydA4pnaFlGp3Y."
+  },
+  "test3": {
+    "password": "$2a$10$kix0Jp3m6ZZw1vayfUgXcOVMCpiQTD14F2W6ELNGtPmB4npjqJBgS"
+  },
+  "modiji": {
+    "password": "$2a$10$1N87Yf14EjezuKCCms0WE.Hz9i5auJ9xHUaALupC0tZxwHBFzU8ia"
+  },
+  "yogiji": {
+    "password": "$2a$10$S5YUfOSIQJCw/dJJPoJY/Oc4RT./JS1mErMsK1mXoSjB4ZlKJqBmm"
+  },
+  "anshu": {
+    "password": "$2a$10$M0EQqzD9PDE8LmKgMHvRnOKCcVSaeIl/x72rfDPSHcNJ7nm1Vizgq"
+  },
+  "ashu": {
+    "password": "$2a$10$M0EQqzD9PDE8LmKgMHvRnOKCcVSaeIl/x72rfDPSHcNJ7nm1Vizgq"
+  },
+  "Nansh": {
+    "password": "$2a$10$M0EQqzD9PDE8LmKgMHvRnOKCcVSaeIl/x72rfDPSHcNJ7nm1Vizgq"
+  },
+  "Pintoo": {
+    "password": "$2a$10$M0EQqzD9PDE8LmKgMHvRnOKCcVSaeIl/x72rfDPSHcNJ7nm1Vizgq"
+  },
+  "Manish": {
+    "password": "$2a$10$M0EQqzD9PDE8LmKgMHvRnOKCcVSaeIl/x72rfDPSHcNJ7nm1Vizgq"
+  }
+}
