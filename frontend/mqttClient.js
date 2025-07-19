@@ -7,8 +7,8 @@ export function connectToChat(username) {
         clientId: 'mqttClient_' + Math.random().toString(16).substr(2, 8), // Unique client ID
         clean: true,
         connectTimeout: 4000,
-        username: 'mqttClient',
-        password: 'Mqtt@1912',
+        username: '*********',
+        password: '*********',
         reconnectPeriod: 1000
     };
 
